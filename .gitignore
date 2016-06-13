@@ -45,3 +45,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.class
+bin/com/giffgaff/dojo/Interconnect-20160602_Failures.csv
+*.sh
+*.csv
+src/com/giffgaff/dojo/ProduceLinuxCommands.java
